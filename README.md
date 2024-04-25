@@ -7,6 +7,9 @@
 <br/>
 </div>
 
+## Preview:
+<img src="https://github.com/yskxi/dotfiles/blob/main/assets/image.png" alt="meow">
+
 <em>Welcome to my corner of dotfiles! ☕</em>
 
 ...psst! my specs are on my profile!
