@@ -3,7 +3,7 @@
 # <em>.𖥔 ݁ ˖ My dotfiles<3 𓍢ִ໋☕️✧˚</em>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/yskxi/dotfiles?style=for-the-badge&color=89b4fa) ![GitHub forks](https://img.shields.io/github/forks/yskxi/dotfiles?style=for-the-badge&color=%2389b4fa)
- ![GitHub last commit](https://img.shields.io/github/last-commit/yskxi/dotfiles?style=for-the-badge&color=89b4fa) ![GitHub repo size](https://img.shields.io/github/repo-size/yskxi/dotfiles?style=for-the-badge&color=89b4fa) ![Static Badge](https://img.shields.io/badge/Feel%20free%20to%20fork%20%26%20commit!-%20%20%20%2389b4fa?style=for-the-badge) 
+ ![GitHub last commit](https://img.shields.io/github/last-commit/yskxi/dotfiles?style=for-the-badge&color=89b4fa) ![GitHub repo size](https://img.shields.io/github/repo-size/yskxi/dotfiles?style=for-the-badge&color=89b4fa) ![Static Badge](https://img.shields.io/badge/Feel%20free%20to%20fork%20%20it!-%20%20%20%2389b4fa?style=for-the-badge) 
 <br/>
 </div>
 
