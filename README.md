@@ -8,7 +8,7 @@
 </div>
 
 ## Preview:
-<img src="https://github.com/yskxi/dotfiles/blob/main/assets/image.png" alt="meow">
+![meow](https://github.com/yskxi/dotfiles/assets/103554377/66a7f4d8-6f74-49f8-937f-77ce660b2356)
 
 <em>Welcome to my corner of dotfiles! ☕</em>
 
