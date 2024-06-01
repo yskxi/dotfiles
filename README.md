@@ -24,7 +24,7 @@
 ## Font and Color Scheme ๋࣭ ⭑⚝
 
 - **Font📝**: [0xProto Nerd Font Mono](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/0xProto)
-- **Color Scheme🐱**: [Catppuccin mocha](https://github.com/catppuccin/catppuccin)
+- **Color Scheme🐱**: Gottoh(Custom colorcheme based on the wallpaper i'm using)
 
 ## Credits
 
