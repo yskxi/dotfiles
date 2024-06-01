@@ -18,7 +18,7 @@
 - **Hyprland💧**: For those who want usability without sacrificing aesthetics!
 - **Neovim**: better than vscode fr
 - **Kitty🎀**: Your kind companion in this terminal world
-- **Wofi🎐**: Your friendly neighborhood application launcher for wayland folks!
+- **Waybar🎐**: Wayland bar for wayland folks~!
 - **& more!**
 
 ## Font and Color Scheme ๋࣭ ⭑⚝
