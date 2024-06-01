@@ -4,7 +4,7 @@
     //"position": "bottom", // Waybar position (top|bottom|left|right)
     "height": 40, // Waybar height (to be removed for auto height)
     "spacing": 0,
-    "position": "bottom",
+    "position": "top",
     "appearance": "dark",
     // Choose the order of the modules
     "modules-left": [
