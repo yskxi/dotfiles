@@ -16,7 +16,7 @@
 ## Included Configurations ‧₊˚🖇️✩ ₊˚🎧⊹♡
 
 - **Hyprland💧**: For those who want usability without sacrificing aesthetics!
-- **Waybar🎉**: A delightful for us wayland lovers
+- **Neovim**: better than vscode fr
 - **Kitty🎀**: Your kind companion in this terminal world
 - **Wofi🎐**: Your friendly neighborhood application launcher for wayland folks!
 - **& more!**
