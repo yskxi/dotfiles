@@ -1,15 +1,21 @@
 * {
     	/* `otf-font-awesome` is required to be installed for icons */
-    	font-family: "0xProto Nerd Font Mono";
+    	/* font-family: "0xProto Nerd Font Mono"; */
+	font-family: "GohuFont 14 Nerd Font";
     	/* font-size: 14px; */
-    	font-size: 14px
+    	font-size: 14px;
 }
 
 window#waybar {
-    	/*background-color: rgba(25, 20, 20, 1);*/
-    	background-color: rgba(9, 10, 12, 1.0);
+    	/* background-color: rgba(25, 20, 20, 1); */
+    	/* background-color: rgba(9, 10, 12, 1); */
+	background-color: #090a0c;
     	color: #ffffff;
-	border-bottom: 3px solid #c19da4;
+	/* border-top: 3px solid #c19da4; */
+	/* border-top: 3px solid #B9C9D5; */
+	/* border-top: 3px solid #84BACC; */
+	/* border-top: 3px solid #61799C; */
+	 border-top: 3px solid #7EA5BD;
 }
 
 window#waybar.hidden {
@@ -24,41 +30,11 @@ window#waybar.solo {
     background-color: #FFFFFF;
 }
 */
-/*
-.modules-right {
-	background-color: rgba(9, 10, 12, 0.8);
-	border-radius: 10px;
-	padding-top: 0.2em;
-	padding-bottom: 0.2em;
-	margin-top: 8px; 
-    	margin-right: 0.7em;
-    	margin-bottom: 8px;
+
+
+#custom-separator {
+	color: #7EA5BD;
 }
-
-
-.modules-left {
-	background-color: rgba(9, 10, 12, 0.8); 
-	border-radius: 10px;
-	padding-top: 0.2em;
-	padding-bottom: 0.2em;
-	margin-top: 8px; 
-    	margin-right: 0.7em;
-    	margin-bottom: 8px;
-    	margin-left: 0.7em;
-}
-
-
-.modules-center {
-	background-color: rgba(9, 10, 12, 0.8); 
-	border-radius: 10px;
-	padding-top: 0.2em;
-	padding-bottom: 0.2em;
-	margin-top: 8px; 
-	margin-right: 0.7em;
-	margin-bottom: 8px;
-	
-}
-*/
 
 #workspaces button {
     padding: 0 5px;
@@ -77,12 +53,21 @@ window#waybar.solo {
 }
 
 #workspaces button:hover {
-	background: #080808;
+	box-shadow: none; /* Remove predefined box-shadow */
+  	text-shadow: none; /* Remove predefined text-shadow */
+  	background: none; /* Remove predefined background color (white) */
+  	transition: none; /* Disable predefined animations */
+	border: none;
+	color: #84BACC;
 	
 }
 
 #workspaces button.active {
-	color: #c19da4;
+	/* color: #c19da4; */
+	/* color: #B9C9D5; */
+	/* color: #84BACC; */
+	/* color: #61799C; */
+	 color: #7EA5BD; 
 	/* border-bottom: 3px solid #c19da4; */
 }
 
@@ -131,9 +116,9 @@ window#waybar.solo {
 
 
 
-#tray {
-    /* background-color: #2980b9; */
-}
+/*#tray {
+     background-color: #2980b9; 
+}*/
 
 #tray > .passive {
     -gtk-icon-effect: dim;
@@ -144,4 +129,6 @@ window#waybar.solo {
     background-color: #eb4d4b;
 }
 
-
+#window {
+	color: #7EA5BD;
+}

@@ -1,29 +1,42 @@
 // -*- mode: jsonc -*-
 {
     // "layer": "top", // Waybar at top layer
-    //"position": "bottom", // Waybar position (top|bottom|left|right)
+    "position": "bottom", // Waybar position (top|bottom|left|right)
     "height": 40, // Waybar height (to be removed for auto height)
     "spacing": 0,
-    "position": "top",
+    //"position": "top",
     "appearance": "dark",
     // Choose the order of the modules
     "modules-left": [
         //"sway/workspaces",
         "hyprland/workspaces",
+	"custom/separator",
         //"sway/window",
-        "hyprland/window"
+        //"hyprland/window"
+	"clock",
+	"custom/separator",
+	"hyprland/window"
     ],
-    "modules-center": [
-        "clock"
-    ],
+    //"modules-center": [
+        //"clock"
+    //],
     "modules-right": [
-        "tray",
+        "custom/separator",
         "pulseaudio",
+	"custom/separator",
 	"cpu",
+	"custom/separator",
 	"memory",
-	"temperature"
+	"custom/separator",
+	"temperature",
+	"custom/separator",
+	"tray"
         //"battery"
     ],
+    "custom/separator": {
+        "format": " | ",
+        "return-type": "text"
+    },
     "sway/mode": {
         "format": "<span style=\"italic\">{}</span>"
     },
